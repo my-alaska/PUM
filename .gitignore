@@ -2,3 +2,9 @@
 .idea
 *.csv
 *.parquet
+*.txt
+*.png
+*.jpg
+*.gz
+*.arff
+*.tsv
